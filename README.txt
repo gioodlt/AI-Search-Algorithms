@@ -1,7 +1,5 @@
 Name: Giovanni De La Torre
 
-Course: CSE 5120
-
 Programming Language:
 Python
 
